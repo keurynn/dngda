@@ -28,8 +28,8 @@ This project require NodeJS v12
 Clone this project
 
 ```bash
-> git clone https://github.com/dngda/bot-whatsapp
-> cd bot-whatsapp
+git clone https://github.com/GitKeu/dngda
+cd bot-whatsapp
 ```
 
 You need to install Libreoffice to use doctopdf command
@@ -37,7 +37,7 @@ You need to install Libreoffice to use doctopdf command
 Install the dependencies:
 
 ```bash
-> npm install
+npm install
 ```
 Change all apiKey on [this section](https://github.com/dngda/bot-whatsapp/blob/main/settings/api.json.example) then *rename to api.json*
 
@@ -45,7 +45,7 @@ Change all apiKey on [this section](https://github.com/dngda/bot-whatsapp/blob/m
 Run the Whatsapp bot
 
 ```bash
-> npm start
+npm start
 ```
 
 After running it you need to scan the QR
