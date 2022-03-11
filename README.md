@@ -28,8 +28,8 @@ This project require NodeJS v12
 Clone this project
 
 ```bash
-git clone https://github.com/GitKeu/dngda
-cd bot-whatsapp
+git clone https://github.com/keurynn/dngda
+cd dngda
 ```
 
 You need to install Libreoffice to use doctopdf command
